@@ -1,2 +1,3 @@
-console.log('Hello');
+console.log('Change');
 console.log('Bye');
+console.log('Add');
